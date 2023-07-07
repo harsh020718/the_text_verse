@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the_text_verse/static/css/main.073c9b0a.css",
+    "main.js": "/the_text_verse/static/js/main.e40acef9.js",
+    "static/js/787.dfbe23b9.chunk.js": "/the_text_verse/static/js/787.dfbe23b9.chunk.js",
+    "index.html": "/the_text_verse/index.html",
+    "main.073c9b0a.css.map": "/the_text_verse/static/css/main.073c9b0a.css.map",
+    "main.e40acef9.js.map": "/the_text_verse/static/js/main.e40acef9.js.map",
+    "787.dfbe23b9.chunk.js.map": "/the_text_verse/static/js/787.dfbe23b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e40acef9.js"
+  ]
+}
